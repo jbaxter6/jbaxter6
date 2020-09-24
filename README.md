@@ -45,15 +45,9 @@
 - Learning to develop Mobile-first web-apps.
 - Learning React with Redux.
 - Adding databases to my skill set.
-
 ---
 
-</details>
-
-<div align="center">
-<p align="center"> 
-  <i> Let's connect and chat! :incoming_envelope: </i>
-</p>
+### - Want to Learn more about me :incoming_envelope:
 
 <p align="center">
     <a href="https://www.linkedin.com/in/johnnathan-baxter-6b7a61158/">
@@ -63,8 +57,17 @@
       <img align="left" alt="Jr's Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"/>
     </a>
 </p>
+---
 
-</div>
+### Thanks for coming!
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=jbaxter6.jbaxter6)
+
+---
+
+
+</details>
+
+
 
 <br>
 
