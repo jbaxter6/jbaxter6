@@ -1,11 +1,11 @@
 
-  <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
+  <img src="https://media.giphy.com/media/lcPtwd4NzaZnW/giphy.gif" width="30%">
   <samp>
     I'm Johnnathan Baxter :wave:
     <br><br>
     I am a Full Stack Web Developer :globe_with_meridians:
     <br><br>
-    I love to code, design, run, and watch sports!
+    I love to code, design, bird-watch, and watch sports!
     <br><br>
   </samp>
 
