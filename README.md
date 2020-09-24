@@ -50,18 +50,21 @@
 
 </details>
 
+<div align="center">
 <p align="center"> 
   <i> Let's connect and chat! :incoming_envelope: </i>
 </p>
 
 <p align="center">
     <a href="https://www.linkedin.com/in/johnnathan-baxter-6b7a61158/">
-    <img align="left" alt="Jr's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-  </a>
-  <a href="https://medium.com/@jbaxter6">
-    <img align="left" alt="Jr's Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"/>
-  </a>
+      <img align="left" alt="Jr's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+    </a>
+    <a href="https://medium.com/@jbaxter6">
+      <img align="left" alt="Jr's Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"/>
+    </a>
 </p>
+
+</div>
 
 <br>
 
