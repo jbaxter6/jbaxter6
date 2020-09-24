@@ -1,6 +1,5 @@
 
   <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
-  <br><br>
   <samp>
     I'm Johnnathan Baxter :wave:
     <br><br>
@@ -8,7 +7,6 @@
     <br><br>
     I love to code, design, run, and watch sports!
     <br><br>
-    
   </samp>
 
 
