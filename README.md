@@ -63,9 +63,9 @@
 </p>
 
 <p align="center">
-  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=jbaxter6.jbaxter6)
 </p>
 
 <br>
 
+  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=jbaxter6.jbaxter6)
 
