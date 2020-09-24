@@ -5,7 +5,7 @@
     <br><br>
     I am a Full Stack Web Developer :globe_with_meridians:
     <br><br>
-    I love to bird-watch, watch sports, design, and CODE!
+    I love to run, watch sports, design, and CODE!
     <br><br>
   </samp>
 
