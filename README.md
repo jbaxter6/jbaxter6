@@ -57,19 +57,18 @@
       <img align="left" alt="Jr's Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"/>
     </a>
 </p>
----
+
 
 ### Thanks for coming!
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=jbaxter6.jbaxter6)
 
 ---
 
+![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
+
 
 </details>
 
 
 
-<br>
-
-  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=jbaxter6.jbaxter6)
-
+ 
