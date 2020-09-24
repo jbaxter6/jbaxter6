@@ -63,7 +63,7 @@
 </p>
 
 <p align="center">
-  <i> Open to anything under the stars :sparkles: </i>
+  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ApurvShh007.ApurvShah007)
 </p>
 
 <br>
