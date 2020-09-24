@@ -1,5 +1,5 @@
 
-  <img src="https://media.giphy.com/media/lcPtwd4NzaZnW/giphy.gif" style="width:30%; border-radius:8px;">
+  <img src="https://media.giphy.com/media/lcPtwd4NzaZnW/giphy.gif" width="50%" >
   <samp>
     I'm Johnnathan Baxter :wave:
     <br><br>
