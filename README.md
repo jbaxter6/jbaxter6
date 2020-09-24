@@ -1,7 +1,6 @@
 
   <img src="https://media.giphy.com/media/lcPtwd4NzaZnW/giphy.gif" width="40%" >
 
-  <br>
   <samp>
     I'm Johnnathan Baxter :wave:
     <br><br>
