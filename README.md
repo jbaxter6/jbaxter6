@@ -43,7 +43,7 @@
 
 - Improving my Reactjs skills.
 - Learning cloud integration with AWS.
-- Solving codewars challenges.
+- Solving Algorithms.
 - Solidfying Node.js skills.
 ---
 
