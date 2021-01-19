@@ -44,8 +44,7 @@
 - Improving my Reactjs skills.
 - Learning cloud integration with AWS.
 - Solving Algorithms.
-- Solidfying Node.js skills.
-- Learning TypeScript.
+
 ---
 
 ### - Want to Learn more about me :incoming_envelope:
