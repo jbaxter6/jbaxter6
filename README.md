@@ -4,10 +4,7 @@
   <samp>
     I'm Johnnathan Baxter :wave:
     <br><br>
-    I am a Full Stack Web Developer :globe_with_meridians:
-    <br><br>
-    I love to run, watch sports, design, and CODE!
-    <br><br>
+   
   </samp>
 
 
