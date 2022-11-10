@@ -4,7 +4,7 @@
   <samp>
     I'm Johnnathan Baxter :wave:
     <br><br>
-   
+    I like to design and code out experiences
   </samp>
 
 
